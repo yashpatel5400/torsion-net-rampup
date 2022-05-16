@@ -14,7 +14,7 @@ the near future) will rely on such modelling techniques, making them worthwhile 
 be intimately comfortable with. Here are a set of relevant exercises to work through
 along with corresponding reading material:
 
-- RNNs
+- Vanilla RNNs
 - Bidirectional RNNs
 - Seq2Seq
 - Seq2Seq w/ Attention
