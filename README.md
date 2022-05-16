@@ -16,8 +16,12 @@ along with corresponding reading material:
 
 - Vanilla RNNs
   - [Exercise](exercises/vanilla.ipynb)
+  - [Solution](solutions/vanilla.ipynb)
 - Bidirectional RNNs
+  - [Exercise](exercises/bidirectional.ipynb)
+  - [Solution](solutions/bidirectional.ipynb)
 - Seq2Seq
+  - [Solution](solutions/seq2seq.ipynb)
 - Seq2Seq w/ Attention
 - Transformers
 
