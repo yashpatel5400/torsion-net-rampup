@@ -15,6 +15,7 @@ be intimately comfortable with. Here are a set of relevant exercises to work thr
 along with corresponding reading material:
 
 - Vanilla RNNs
+  - [Exercise](exercises/vanilla.ipynb)
 - Bidirectional RNNs
 - Seq2Seq
 - Seq2Seq w/ Attention
