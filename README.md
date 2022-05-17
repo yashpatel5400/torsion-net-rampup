@@ -25,6 +25,7 @@ along with corresponding reading material:
 4. Attention: Work through https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
   - [Solution](solutions/attention.ipynb)
 5. Transformers: Work through http://peterbloem.nl/blog/transformers
+  - [Solution](solutions/transformers.ipynb)
 
 ### Vanilla RL
 
