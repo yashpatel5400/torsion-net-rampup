@@ -14,16 +14,17 @@ the near future) will rely on such modelling techniques, making them worthwhile 
 be intimately comfortable with. Here are a set of relevant exercises to work through
 along with corresponding reading material:
 
-- Vanilla RNNs
+1. Vanilla RNNs
   - [Exercise](exercises/vanilla.ipynb)
   - [Solution](solutions/vanilla.ipynb)
-- Bidirectional RNNs
+2. Bidirectional RNNs
   - [Exercise](exercises/bidirectional.ipynb)
   - [Solution](solutions/bidirectional.ipynb)
-- Seq2Seq
+3. Seq2Seq
   - [Solution](solutions/seq2seq.ipynb)
-- Seq2Seq w/ Attention
-- Transformers
+4. Seq2Seq w/ Attention
+5. Read Lilian's post on [Attention](https://lilianweng.github.io/posts/2018-06-24-attention/)
+6. Transformers
 
 ### Vanilla RL
 
