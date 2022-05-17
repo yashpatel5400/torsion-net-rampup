@@ -22,10 +22,9 @@ along with corresponding reading material:
   - [Solution](solutions/bidirectional.ipynb)
 3. Seq2Seq
   - [Solution](solutions/seq2seq.ipynb)
-4. Read https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html and work through Seq2Seq w/ Attention
+4. Attention: Work through https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
   - [Solution](solutions/attention.ipynb)
-5. Read Lilian's post on [Attention](https://lilianweng.github.io/posts/2018-06-24-attention/)
-6. Transformers
+5. Transformers: Work through http://peterbloem.nl/blog/transformers
 
 ### Vanilla RL
 
